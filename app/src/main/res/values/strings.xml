@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">LocationStudyApp</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="welcome_string">Welcome to Android Studio</string>
+    <string name="welcome_string">Location APP</string>
 </resources>
